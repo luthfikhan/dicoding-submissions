@@ -1,0 +1,18 @@
+StoryViewModelTest
+getStoriesWithLocation
+-> Memastikan result tidak null
+-> memastikan data result sama seperti mock
+-> mempunyai data lat lon
+
+uploadStory
+-> return true ketika sukses
+
+UserViewModelTest
+Login test sukses
+-> cek return string, harus ada tokennya
+Login test error
+-> return string kosong
+Submit register sukses
+-> cek return harus sama dengan true
+submit register error
+-> cek return harus tidak sama dengan true

@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="copyright">By Luthfikhan</string>
+    <string name="field_password_visibility_off_description">Tampilkan kata sandi</string>
+    <string name="field_password_visibility_description">Sembunyikan kata sandi</string>
+    <string name="field_password_error_text">Password minimal 6 karakter</string>
+    <string name="field_email_error_text">Format email tidak valid</string>
+    <string name="signup_title">Buat Akun</string>
+    <string name="signup_subtitle">Daftarkan diri anda sekarang</string>
+    <string name="signup_email_label">Masukan Email Anda</string>
+    <string name="signup_password_label">Masukan Password Anda</string>>
+    <string name="login_email_label">Masukan Email Anda</string>
+    <string name="login_password_label">Masukan Password Anda</string>
+    <string name="signup_button_label">Buat Akun</string>
+    <string name="signup_login_question_text">Sudah punya akun? Login</string>
+    <string name="login_button_label">Login</string>
+    <string name="login_title">Login</string>
+    <string name="login_subtitle">Masuk ke akun Anda</string>
+    <string name="signup_name_label">Masukan Nama Anda</string>
+    <string name="signup_toast_invalid_input">Pastikan semua input benar</string>
+    <string name="something_went_wrong">Terjadi kesalahan</string>
+    <string name="signup_success_text">Pendaftaran Anda berhasil, silahkan login untuk melanjutkan</string>
+    <string name="signup_failed_text">Pendaftaran Anda gagal</string>
+    <string name="login_failed_text">Login gagal</string>
+    <string name="content_desc_add_new_story_fab">Tambah stori baru</string>
+    <string name="story_picker_button_text">Upload Story</string>
+    <string name="story_picker_label_desc">Tambahkan deskripsi</string>
+    <string name="story_picker_title_page">Uploud Story-mu</string>
+    <string name="add_story_invalid_field_text">Tambahkan foto dan deskripsi</string>
+    <string name="story_picker_gallery_text">Gallery</string>
+    <string name="story_picker_camera_text">Camera</string>
+    <string name="menu_logout_text">Logout</string>
+    <string name="story_detail_desc_text">Deskripsi</string>
+    <string name="guest_text">Guest</string>
+</resources>
